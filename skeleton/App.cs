@@ -1,4 +1,4 @@
-namespace Chess
+namespace Skeleton
 {
     public class App
     {

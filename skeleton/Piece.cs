@@ -1,4 +1,4 @@
-namespace Chess
+namespace Skeleton
 {
     public  abstract class Piece
     {

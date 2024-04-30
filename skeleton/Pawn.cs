@@ -1,6 +1,6 @@
 using System.Diagnostics;
 
-namespace Chess
+namespace Skeleton
 {
     public class Pawn: Piece
     {

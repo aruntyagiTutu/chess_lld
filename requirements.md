@@ -12,6 +12,31 @@ Game should continue until one user is a winner.
 User should be forced to follow all chess rules.
 
 
+All nouns from above statements
+User
+App
+Online users
+Game
+Color
+White
+Black
+Chess board
+Chess piece
+Cell
+Move
+Valid move
+State
+Winner
+Rules
+
+
+Clustering:
+
+User Player
+
+Game Board Cell Piece 
+
+App
 
 
 

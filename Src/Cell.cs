@@ -1,4 +1,4 @@
-namespace Skeleton
+namespace Chess
 {
     public class Cell
     {
